@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yocomplex or Josh.
-- 👀 I’m interested in: C++ coding, going to the gym, playing video games, and hanging out with friends. 
-- 🌱 I’m currently learning C++.
-- 📫 How to reach me: through my personal email at joshuayanga1@hotmail.com
+- 👋 Hi, I’m Josh.
+- 👀 I’m currently playing with and learning C++ coding, go to the gym to relieve stress of school and other hobbies, play video games, and go out with my girlfriend and friends. 
+- 📫 How to reach me: my personal email at joshuayanga1@hotmail.com
 
 <!---
 yocomplex/yocomplex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
