@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh.
-- 👀 I’m currently playing with and learning C++ coding, go to the gym to relieve stress of school and other hobbies, play video games, and go out with my girlfriend and friends. 
+- 👀 I’m currently learning C++. On my free time, I go to the gym to relieve stress of school and other hobbies such as video games, and go out with my girlfriend and friends. 
 - 📫 How to reach me: my personal email at joshuayanga1@hotmail.com
 
 <!---
