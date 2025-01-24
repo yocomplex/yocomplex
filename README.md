@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Josh!
 - 👀 Technologies I've worked with are:
     `C/C++, Java, .NET C#, Python, HTML, JavaScript, CSS, and MySQL`
-- On my free time, I go to the gym to relieve stress from school and participate in other hobbies such as video games, going out with my girlfriend, and participating in rave events! I also try to learn other specialties such as ML/AI and Software Development for fun!
 - 📫 How to reach me: my personal email at joshuayanga1@hotmail.com
 - If you would like to connect on LinkedIn: [[LINKEDIN](https://www.linkedin.com/in/joshuazamora0310)]
 <!---
