@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Josh</h1>
-<h3 align="center">Software Engineer | Web Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://yocomplex.github.io/" target="_blank">
